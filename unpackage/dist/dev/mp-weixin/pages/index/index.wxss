@@ -1,0 +1,11 @@
+.index.data-v-57280228 {
+  width: 100%;
+  min-height: 200px;
+  box-sizing: border-box;
+}
+.index .index-bw-swiper.data-v-57280228 {
+  width: 100%;
+  margin: 0 auto;
+  height: 200px;
+}
+
